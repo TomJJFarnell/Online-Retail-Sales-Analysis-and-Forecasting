@@ -47,10 +47,10 @@ Cleaning and transformation steps included:
 - 🔁 Return/cancellation rates
 - 🧭 Interactive filters for time & product category
 
-# Selecting Product From Bar Graph
+### Selecting Product From Bar Graph
 ![Selecting Product From Bar Graph](Output/PowerBI_Dashboard/Select_Prodcut.png)
 
-# Using Slider to Filter Plot by Period
+### Using Slider to Filter Plot by Period
 ![Using Slider to Filter Plot by Period](Output/PowerBI_Dashboard/Slider_Filter.png)
 
 
