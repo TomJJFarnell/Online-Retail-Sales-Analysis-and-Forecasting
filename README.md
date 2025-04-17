@@ -33,13 +33,13 @@ Cleaning and transformation steps included:
 - Calculating total revenue: `Quantity * Price`
 - Aggregating sales per product per day
 
-📄 View all SQL steps: [`sql/cleaning_steps.sql`](sql/cleaning_steps.sql)
+📄 View all SQL steps: [`Output/SQL/Online_retail_Cleaning.sql']
 
 ---
 
 ## 📊 Dashboard Highlights (Power BI)
 
-![Main Dashboard](powerbi/screenshots/dashboard_main.png)
+![Main Dashboard](Output/PowerBI_Dashboard/Default.png)
 
 - 📈 Revenue trends (daily, monthly, yearly)
 - 📦 Top-selling products
@@ -47,7 +47,15 @@ Cleaning and transformation steps included:
 - 🔁 Return/cancellation rates
 - 🧭 Interactive filters for time & product category
 
-📁 File: [`powerbi/OnlineRetailDashboard.pbix`](powerbi/OnlineRetailDashboard.pbix)
+
+![Selecting Product From Bar Graph](Output/PowerBI_Dashboard/Select Prodcut.png)
+
+
+![Using Slider to Filter Plot by Period](Output/PowerBI_Dashboard/Slider Filter.png)
+
+
+
+📁 File: [`Output/PowerBI_Dashboard/Online Retail Dashboard copy.pbix]
 
 ---
 
