@@ -48,14 +48,14 @@ Cleaning and transformation steps included:
 - 🧭 Interactive filters for time & product category
 
 
-![Selecting Product From Bar Graph](Output/PowerBI_Dashboard/Select Prodcut.png)
+![Selecting Product From Bar Graph](Output/PowerBI_Dashboard/Select_Prodcut.png)
 
 
-![Using Slider to Filter Plot by Period](Output/PowerBI_Dashboard/Slider Filter.png)
+![Using Slider to Filter Plot by Period](Output/PowerBI_Dashboard/Slider_Filter.png)
 
 
 
-📁 File: [`Output/PowerBI_Dashboard/Online Retail Dashboard copy.pbix]
+📁 File: [`Output/PowerBI_Dashboard/Online_Retail_Dashboard_copy.pbix]
 
 ---
 
